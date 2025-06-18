@@ -1,3 +1,4 @@
+https://img.shields.io/github/license/GeoCPU/Collatz_Random
 A piece of code dedicated to solving the Collatz conjecture.
 It generates random number up to 10 to the power of 1000 quickly and applies the rules.
 If you don't know what the Collatz conjecture is, let me explain it to you. It's 3n+1. If you have an even number, divide it by 2.
