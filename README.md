@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/GeoCPU/Collatz_Random
+![GitHub License](https://img.shields.io/github/license/GeoCPU/Collatz_Random)
 
 A piece of code dedicated to solving the Collatz conjecture.
 It generates random number up to 10 to the power of 1000 quickly and applies the rules.
